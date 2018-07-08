@@ -4,5 +4,8 @@ title: Blog
 ---
 
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+  * <strong>{{ post.date | date_to_string }}</strong> &raquo; [ {{ post.title }} ]({{ post.url }})
+  {% if post.excerpt %}
+    <small>{{ post.excerpt }}</small>
+  {% endif %}
 {% endfor %}

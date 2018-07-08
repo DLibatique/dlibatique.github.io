@@ -33,7 +33,8 @@ gems:
 
 # custom pages list
 pages_list:
-    CV: '/cv'
-    Blog: '/blog'
-    CLAS102: '/CLAS102'
-    LATN101: '/LATN101'
+    CV: 'https://dlibatique.github.io/cv'
+    Blog: 'https://dlibatique.github.io/blog'
+    Digital Projects: 'https://dlibatique.github.io/digital'
+    Courses: 'https://dlibatique.github.io/courses'
+    Contact: 'https://dlibatique.github.io/contact'
