@@ -3,28 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi! I'm Daniel Libatique. Welcome to my website.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<img align="left" src="../images/headshot.jpg" style="float" style="padding: 0px 20px 0px 0px" width="50%">
 
-There are currently two themes built on Poole:
+As of 2018-2019, I'm a lecturer in the Classics department at the College of the Holy Cross in Worcester, MA. I completed my Ph.D. at Boston University in 2018 with a dissertation entitled *Tereus, Procne, and Philomela: Speech, Silence, and the Voice of Gender*. Prior to that, I completed my M.A. in Humanities and Social Thought at NYU and my B.A. in Classics and Theatre at Holy Cross.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+As a Classicist, my research focuses on speech, silence, and the hierarchies of power that those concepts create. My main interests include Sophocles and Greek tragedy; Ovid and Augustan poetry; performance and reception theory; narratology; gender politics; and Digital Humanities. I have an article published in *Classical World* (109.1, 2015) on Medea in Ovid’s *Metamorphoses* and a note forthcoming in *Classical Quarterly* (2019) on Sophocles’ *Tereus* frr. 588 and 583. I've also presented papers at conferences from the graduate to faculty and regional levels on the meter of the *Pervigilium Veneris*; Salmacis, Tereus, Philomela, Procne, and Medea in Ovid’s *Metamorphoses*; Tecmessa and speech and silence in Sophocles’ *Ajax*; the Proclamation Speech in Sophocles’ *Oedipus Tyrannos*; Cremutius Cordus in Tacitus’ *Annals*; and Ovid’s appropriation of Euripides’ Iphigenia myth in *Tristia* 4.4. At BU, I acted as instructor of record for Beginning Latin 1 (Fall 2015) and Homeric Greek (Spring 2018) and T.F. for Greek History (Fall 2013), World of Rome (Spring and Fall 2014, Spring 2016), and Warfare in Antiquity (Spring 2015).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Please feel free to use the navigation bar at the top to learn more about my publications, talks, courses taught, or other academic endeavors. If you are a current student, you can also find links to the course websites above!
