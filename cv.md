@@ -10,9 +10,10 @@ Greek tragedy; Ovid and Augustan poetry; ancient gender politics and sexuality; 
 <div style="padding-bottom:0"><strong>(2018-2019)</strong><a name='hc'> </a>Lecturer, College of the Holy Cross.</div>
 <div class="indent">Courses taught:
 <ul>
-  <li>(Fall) CLAS102 - Ancient Roman Literature and Society</li>
-  <li>(Fall) LATN101 - Introduction to Latin 1</li>
-  <li>(Spring) LATN102 - Introduction to Latin 2</li>
+  <li>(Fall 2018) CLAS102 - Ancient Roman Literature and Society</li>
+  <li>(Fall 2018) LATN101 - Introduction to Latin 1</li>
+  <li>(Spring 2019) CLAS199 - Gender and Sexuality in the Ancient World</li>
+  <li>(Spring 2019) LATN102 - Introduction to Latin 2</li>
 </ul>
 </div>
 <hr>
@@ -28,14 +29,24 @@ Greek tragedy; Ovid and Augustan poetry; ancient gender politics and sexuality; 
 # Publications
 <ul class="cv-elements">
   <li><strong>(2019, forthcoming)</strong> “The speaker and addressee of Sophocles’ <em>Tereus</em> fr. 588 Radt and the context of fr. 583,” <em>Classical Quarterly</em>.</li>
-  <li><strong>(2019, forthcoming)</strong> Review, W.M. Barton, <em>The Pervigilium Veneris: A New Critical Text, Translation, and Commentary. Classical Review</em> 69.1.</li>
-  <li><strong>(2015)</strong> “A Narratological Investigation of Ovid’s Medea: <em>Met.</em> 7.1-424,” <em>Classical World</em> 109.1: 69-89.</li>
+  <li><strong>(2019)</strong> Review, W.M. Barton, <em>The Pervigilium Veneris: A New Critical Text, Translation, and Commentary. Classical Review</em> 69.1. <a href="https://doi.org/10.1017/S0009840X18002147">DOI</a>.</li>
+  <li><strong>(2015)</strong> “A Narratological Investigation of Ovid’s Medea: <em>Met.</em> 7.1-424,” <em>Classical World</em> 109.1: 69-89. <a href="https://doi.org/10.1353/clw.2015.0082">DOI</a>.</li>
   <li>(Invited to resubmit by <em>New England Classical Journal</em>) “Cremutius Cordus and the Loss of Agency: Tacitus <em>Annals</em> 4.34-35.”</li>
 </ul>
 <hr>
+
+# Manuscripts in Progress
+<ul class="cv-elements">
+<li>Article, “The Meter of the Pervigilium Veneris.”</li>
+<li>Article, “Pietas as Scelus in the Philomela Myth of Ovid’s Metamorphoses (6.424-674).”</li>
+<li>Article, “Speech, Silence, and Gender in the Hermaphroditus Myth of Ovid’s Metamorphoses (4.274-388).”</li>
+</ul>
+<hr>
+
 # Talks
 <ul class="cv-elements">
-  <li><strong>(2019)</strong> “Ovid in the #MeToo Era,” SCS/AIA Annual Meeting, San Diego, CA.</li>
+  <li><strong>(2019)</strong> “Visualizing Speech and Speaking about Vision: Focalization in Ovid’s <em>Metamorphoses</em> 1 and 6,” on the International Ovidian Society panel <em>Ovidius a nostris temporibus ad futurum</em>, CAMWS Annual Meeting, Lincoln, NE.
+  <li><strong>(2019)</strong> “Ovid in the #MeToo Era,” on the International Ovidian Society panel <em>Ovid Studies: the Next Millennium</em>, SCS/AIA Annual Meeting, San Diego, CA.</li>
   <li><strong>(2018)</strong> “Speech, Silence, and Gender in the Hermaphroditus Myth of Ovid’s <em>Metamorphoses</em> (4.274-388),” CAMWS Annual Meeting, Albuquerque, NM.</li>
   <li><strong>(2018)</strong> “The Metrical Form of the <em>Pervigilium Veneris</em>,” CANE Annual Meeting, Kingston, RI.</li>
   <li><strong>(2017)</strong> “Communication as Power: The Correction of Sophocles’ <em>Tereus</em> in Aristophanes’ <em>Birds</em>,” CAAS Annual Meeting, New York, NY.</li>
