@@ -10,7 +10,7 @@ Greek tragedy; Ovid and Augustan poetry; ancient gender politics and sexuality; 
 <div style="padding-bottom:0"><strong>(2018-2019)</strong><a name='hc'> </a>Lecturer, College of the Holy Cross.</div>
 <div class="indent">Courses taught:
 <ul>
-  <li>(Fall 2018) CLAS102 - Ancient Roman Literature and Society</li>
+  <li>(Fall 2018) CLAS102 - Women and Men in Roman Literature and Society</li>
   <li>(Fall 2018) LATN101 - Introduction to Latin 1</li>
   <li>(Spring 2019) CLAS199 - Gender and Sexuality in the Ancient World</li>
   <li>(Spring 2019) LATN102 - Introduction to Latin 2</li>
