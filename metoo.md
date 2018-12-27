@@ -153,13 +153,13 @@ Ahl, Frederick. 1985. *Metaformations: Soundplay and Wordplay in Ovid and Other 
 
 Baptista, Camille. (2013, October 18). [“Classics professor Volk talks feminism in Ovid, core curriculum.](https://www.columbiaspectator.com/2013/02/04/classics-professor-volk-talks-feminism-ovid-core-curriculum/) Columbia Daily Spectator.
 
-Burke, Tarana (@TaranaBurke). https://twitter.com/TaranaBurke/status/1031498206260150272. 4:08 A.M., August 20, 2018. Tweet.
+Burke, Tarana (@TaranaBurke). [Tweet](https://twitter.com/TaranaBurke/status/1031498206260150272). 4:08 A.M., August 20, 2018.
 
 Curley, Daniel. 2013. *Tragedy in Ovid: Theater, Metatheater, and the Transformation of a Genre.* Cambridge.
 
-Gloyn, Elizabeth. 2013. “Reading Rape in Ovid’s *Metamorphoses:* A Test-Case Lesson.” *CW* 106.4: 676-681.
+Gloyn, Elizabeth. 2013. [“Reading Rape in Ovid’s *Metamorphoses:* A Test-Case Lesson.”](https://doi.org/10.1353/clw.2013.0096) *CW* 106.4: 676-681.
 
-Hong, Yurie. 2013. “Talking about Rape in the Classics Classroom.” *CW* 106.4: 669-675.
+Hong, Yurie. 2013. [“Teaching Rape Texts in Classical Literature.”](http://doi.org/10.1353/clw.2013.0092) *CW* 106.4: 669-675.
 
 Hortensia. 2017. [“Et in Arcadia Ego: What #MeToo Means in Classics.”](https://eidolon.pub/et-in-arcadia-ego-849ac4fe27ad) *Eidolon* (2017), accessed 3/22/2018.
 
@@ -167,9 +167,9 @@ James, Sharon L. 2016. “Rape and Repetition in Ovid’s *Metamorphoses*: Myth,
 
 Johnson, Kai, Tanika Lynch, Elizabeth Monroe, and Tracey Wang. (2015, April 30). [“Our identities matter in Core classrooms.”](https://www.columbiaspectator.com/opinion/2015/04/30/our-identities-matter-core-classrooms/) Columbia Daily Spectator.
 
-Kahn, Madeleine. 2004. “‘Why Are We Reading a Handbook on Rape?’ Young Women Transform a Classic.” *Pedagogy* 4.3: 438-459.
+Kahn, Madeleine. 2004. [“‘Why Are We Reading a Handbook on Rape?’ Young Women Transform a Classic.”](https://muse.jhu.edu/article/173755) *Pedagogy* 4.3: 438-459.
 
-Lauriola, Rosanna. 2011. “The Shuttle of Their Voices: A Comment on a Class-Response to an Assignment about Rape.” *Cloelia* 1: 26-31.
+Lauriola, Rosanna. 2011. [“The Shuttle of Their Voices: A Comment on a Class-Response to an Assignment about Rape.”](http://www.academia.edu/14559885/The_Shuttle_of_Their_Voices_A_Comment_on_a_Class-Response_to_an_Assignment_About_Rape) *Cloelia* 1: 26-31.
 
 Liveley, Genevieve. 1999. “Reading Resistance in Ovid’s *Metamorphoses*.” In *Ovidian Transformations: Essays on the* Metamorphoses *and its Reception*, edited by Philip Hardie, Alessandro Barchiesi, and Stephen Hinds, 197-213. Cambridge.
 
