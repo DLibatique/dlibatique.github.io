@@ -3,12 +3,12 @@ layout: page
 title: Ovid in the %23MeToo Era
 ---
 
-->Daniel Libatique, College of the Holy Cross<-  
+Daniel Libatique, College of the Holy Cross  
 [@DLibatique10](https://twitter.com/dlibatique10) #AIASCS #S68  
 <a href='https://twitter.com/home?status=Currently%20at%20%23AIASCS%20%23S68%2C%20at%20%40DLibatique10%27s%20paper%2C%20%27Ovid%20in%20the%20%23MeToo%20Era%27'>Click here</a> to Tweet about this paper.
 
-January 6, 2019 | SCS Annual Meeting  
-“Ovid Studies: The Next Millennium” | International Ovidian Society  
+January 6, 2019 \| SCS Annual Meeting  
+“Ovid Studies: The Next Millennium” \| International Ovidian Society  
 
 <hr>
 
