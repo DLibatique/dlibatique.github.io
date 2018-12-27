@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ovid in the Me Too Era
+title: Ovid in the %23MeToo Era
 ---
 
 ->Daniel Libatique, College of the Holy Cross<-  
