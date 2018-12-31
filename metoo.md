@@ -25,7 +25,7 @@ January 6, 2019 \| SCS Annual Meeting
 
 <hr>
 
-### 2. Prof. Katharina Volk (Columbia University) on Ovid:
+### 2. [Prof. Katharina Volk (Columbia University) on Ovid](https://www.columbiaspectator.com/2013/02/04/classics-professor-volk-talks-feminism-ovid-core-curriculum/):
 
 One possibility is to view Ovid as a proto-feminist. He’s trying to give women a voice. The other way to think about it is that he’s an extreme sexist.
 
