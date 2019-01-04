@@ -20,9 +20,6 @@ January 6, 2019 \| SCS Annual Meeting
 
 ### 1. Tarana Burke (founder of #MeToo) on Asia Argento:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I’ve said repeatedly that the  <a href="https://twitter.com/hashtag/metooMVMT?src=hash&amp;ref_src=twsrc%5Etfw">#metooMVMT</a> is for all of us, including these brave young men who are now coming forward. It will continue to be jarring when we hear the names of some of our faves connected to sexual violence unless we shift from talking about individuals [+]</p>&mdash; Tarana (@TaranaBurke) <a href="https://twitter.com/TaranaBurke/status/1031498206260150272?ref_src=twsrc%5Etfw">August 20, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">...and begin to talk about power. Sexual violence is about power and privilege. That doesn’t change if the perpetrator is your favorite actress, activist or professor of any gender. <br>And we won’t shift the culture unless we get serious about shifting these false narratives.</p>&mdash; Tarana (@TaranaBurke) <a href="https://twitter.com/TaranaBurke/status/1031498904158855170?ref_src=twsrc%5Etfw">August 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
