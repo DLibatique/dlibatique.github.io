@@ -23,11 +23,14 @@ January 6, 2019 \| SCS Annual Meeting
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I’ve said repeatedly that the  <a href="https://twitter.com/hashtag/metooMVMT?src=hash&amp;ref_src=twsrc%5Etfw">#metooMVMT</a> is for all of us, including these brave young men who are now coming forward. It will continue to be jarring when we hear the names of some of our faves connected to sexual violence unless we shift from talking about individuals [+]</p>&mdash; Tarana (@TaranaBurke) <a href="https://twitter.com/TaranaBurke/status/1031498206260150272?ref_src=twsrc%5Etfw">August 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">...and begin to talk about power. Sexual violence is about power and privilege. That doesn’t change if the perpetrator is your favorite actress, activist or professor of any gender. <br>And we won’t shift the culture unless we get serious about shifting these false narratives.</p>&mdash; Tarana (@TaranaBurke) <a href="https://twitter.com/TaranaBurke/status/1031498904158855170?ref_src=twsrc%5Etfw">August 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <hr>
 
 ### 2. [Prof. Katharina Volk (Columbia University) on Ovid](https://www.columbiaspectator.com/2013/02/04/classics-professor-volk-talks-feminism-ovid-core-curriculum/):
 
-One possibility is to view Ovid as a proto-feminist. He’s trying to give women a voice. The other way to think about it is that he’s an extreme sexist.
+One possibility is to view Ovid as a **proto-feminist**. He’s trying to give women a voice. The other way to think about it is that he’s an **extreme sexist**.
 
 <hr>
 
@@ -41,42 +44,42 @@ C) **Who grants** them power? ***-or-*** **Who deprives** them of power?
 
 ### 4. Tereus’ vision.
 
-**A)** *ecce uenit magno diues Philomela paratu,  
-diuitior forma; quales audire solemus  
+**A)** *ecce uenit magno diues Philomela* ***paratu***,  
+*diuitior* ***forma***; *quales audire solemus  
 Naidas et Dryadas mediis incedere siluis,  
-si modo des illis cultus similesque paratus.  
-non secus exarsit conspecta uirgine Tereus  
+si modo des illis* ***cultus*** *similesque* ***paratus***.  
+*non secus exarsit* ***conspecta uirgine*** *Tereus  
 quam si quis canis ignem supponat aristis  
 aut frondem positasque cremet faenilibus herbas.  
-digna quidem facies, sed et hunc innata libido  
+digna quidem* ***facies***, *sed et hunc innata libido  
 exstimulat, pronumque genus regionibus illis  
 in Venerem est; flagrat uitio gentisque suoque.* (Ovid *Metamorphoses* 6.451-460)
 
-Look, Philomela comes, rich in her great adornment, like the Naiads or Dryads that we’re accustomed to hear march along in the middle of the forests, if only you’d give them similar cultivation and adornment. No differently did Tereus burn when he saw the maiden than when someone places fire underneath dry old grain or sets fire to foliage or grass near the haylofts. Her face was indeed worthy, but innate lasciviousness goaded him, and his stock from those regions is inclined towards Venus; he burns with both his lineage’s and his own vice.
+**Look**, Philomela comes, rich in her great **adornment**, like the Naiads or Dryads that we’re accustomed to hear march along in the middle of the forests, if only you’d give them similar **cultivation** and **adornment**. No differently did Tereus burn **when he saw the maiden** than when someone places fire underneath dry old grain or sets fire to foliage or grass near the haylofts. Her **face** was indeed worthy, but innate lasciviousness goaded him, and his stock from those regions is inclined towards Venus; he burns with both his lineage’s and his own vice.
 
 **B)** *quid quod idem Philomela cupit patriosque lacertis  
-blanda tenens umeros, ut eat uisura sororem,  
-perque suam contraque suam petit ipsa salutem.  
-spectat eam Tereus praecontrectatque uidendo,  
-osculaque et collo circumdata bracchia cernens  
-omnia pro stimulis facibusque ciboque furoris  
+blanda tenens umeros, ut eat* ***uisura*** *sororem,  
+perque suam contraque suam petit ipsa salutem.*  
+***spectat*** *eam Tereus praecontrectatque* ***uidendo***,  
+*osculaque et collo circumdata bracchia* ***cernens***  
+*omnia pro stimulis facibusque ciboque furoris  
 accipit.* (Ov. *Met.* 6.475-481)
 
-What is more, Philomela desires the same thing — she hugs her father’s shoulders coaxingly, so that she might go and see her sister, and she asks both for and against her own safety. Tereus watches her, and by watching her, he senses what it would be like to touch her, and he sees her kisses and her arms thrown around her father’s neck, and he takes it all in as goads and torches and food for his frenzy.
+What is more, Philomela desires the same thing — she hugs her father’s shoulders coaxingly, so that she might go and **see** her sister, and she asks both for and against her own safety. Tereus **watches** her, and by **watching** her, he senses what it would be like to touch her, and he **sees** her kisses and her arms thrown around her father’s neck, and he takes it all in as goads and torches and food for his frenzy.
 
 **C)** *at rex Odrysius, quamuis secessit, in illa  
-aestuat et, repetens faciem motusque manusque,  
-qualia uult fingit quae nondum uidit et ignes  
+aestuat et,* ***repetens faciem motusque manusque***,  
+*qualia uult fingit quae nondum* ***uidit*** *et ignes  
 ipse suos nutrit cura remouente soporem.* (Ov. *Met.* 6.490-493)
 
-But although he has withdrawn, the Odrysian king burns for her and, seeking again her face and her movements and her hands, he imagines what he wants which he has not yet seen, and he nourishes his own fires, his anxiety removing his sleepiness.
+But although he has withdrawn, the Odrysian king burns for her and, **seeking again her face and her movements and her hands**, he imagines what he wants which he has not yet **seen**, and he nourishes his own fires, his anxiety removing his sleepiness.
 
-**D)** *… nusquam lumen detorquet ab illa,  
+**D)** *… nusquam* ***lumen*** *detorquet ab illa,  
 non aliter quam cum pedibus praedator obuncis  
 deposuit nido leporem Iouis ales in alto;  
-nulla fuga est capto, spectat sua praemia raptor.* (Ov. *Met.* 6.515-518)
+nulla fuga est capto,* ***spectat*** *sua praemia raptor.* (Ov. *Met.* 6.515-518)
 
-At no point does he turn his sight away from her, no differently than when a predator, the bird of Jove, with hooked talons has placed a hare in his lofty nest; there is no escape for the captured, the raptor watches his own prize.
+At no point does he turn his **sight** away from her, no differently than when a predator, the bird of Jove, with hooked talons has placed a hare in his lofty nest; there is no escape for the captured, the raptor **watches** his own prize.
 
 <hr>
 
@@ -85,33 +88,33 @@ At no point does he turn his sight away from her, no differently than when a pre
 *mox ubi mens rediit, passos laniata capillos,  
 [lugenti similis, caesis plangore lacertis,]  
 intendens palmas ‘o diris barbare factis,  
-o crudelis’ ait, ‘nec te mandata parentis  
-cum lacrimis mouere piis nec cura sororis* (535)  
-*nec mea uirginitas nec coniugalia iura?  
+o crudelis’ ait,* ‘***nec*** *te mandata parentis  
+cum lacrimis mouere piis* ***nec*** *cura sororis* (535)  
+***nec*** *mea uirginitas* ***nec*** *coniugalia iura?  
 [omnia turbasti; paelex ego facta sororis,  
 tu geminus coniunx, hostis mihi debita poena.]  
 quin animam hanc, ne quod facinus tibi, perfide, restet,  
 eripis? atque utinam fecisses ante nefandos* (540)  
-*concubitus; uacuas habuissem criminis umbras.  
-si tamen haec superi cernunt, si numina diuum  
-sunt aliquid, si non perierunt omnia mecum,  
-quandocumque mihi poenas dabis. ipsa pudore  
-proiecto tua facta loquar. si copia detur,* (545)  
-*in populos ueniam; si siluis clausa tenebor,  
-implebo siluas et conscia saxa mouebo.  
-audiet haec aether et si deus ullus in illo est.’*
+*concubitus; uacuas habuissem criminis umbras.*  
+***si*** *tamen haec superi cernunt,* ***si*** *numina diuum  
+sunt aliquid,* ***si*** *non perierunt omnia mecum,  
+quandocumque mihi poenas* ***dabis***. *ipsa pudore  
+proiecto tua facta* ***loquar***. *si copia detur,* (545)  
+*in populos* ***ueniam***; *si siluis clausa tenebor,*  
+***implebo*** *siluas et conscia saxa* ***mouebo***.  
+*audiet haec aether et si deus ullus in illo est.’*
 
-Soon, when her mental state was restored, she rent her disheveled hair [like someone grieving, her arms ripped up by the beating,] and holding out her hands, she said, “Oh barbarian of horrible deeds, oh cruel one, did not my father’s orders with his dutiful tears move you? Nor care for my sister, nor my virginity, nor the bonds of marriage? [You have thrown everything into turmoil; I have become my sister’s rival, you a double husband, and the punishment of an enemy is owed to me.] Why don’t you take my life too, treacherous one, lest any disgraceful act remain for you? And if only you had done it before these unspeakable couplings; I would have had shades innocent of crime. Nevertheless, if the gods see these acts, if the powers of the gods are anything, if everything hasn’t perished along with me, at some point you will pay a penalty to me. I’ll throw away my shame and speak your deeds. If the opportunity is given, I will go among the people; if I’ll be held, closed in by these woods, I will fill up the woods and I will move the stones as accomplices. The aether will hear these things too, if there is any god in it.”
+Soon, when her mental state was restored, she rent her disheveled hair [like someone grieving, her arms ripped up by the beating,] and holding out her hands, she said, “Oh barbarian of horrible deeds, oh cruel one, did **not** my father’s orders with his dutiful tears move you? **Nor** care for my sister, **nor** my virginity, **nor** the bonds of marriage? [You have thrown everything into turmoil; I have become my sister’s rival, you a double husband, and the punishment of an enemy is owed to me.] Why don’t you take my life too, treacherous one, lest any disgraceful act remain for you? And if only you had done it before these unspeakable couplings; I would have had shades innocent of crime. Nevertheless, **if** the gods see these acts, **if** the powers of the gods are anything, **if** everything hasn’t perished along with me, at some point **you will pay** a penalty to me. I’ll throw away my shame and **speak** your deeds. If the opportunity is given, **I will go** among the people; if I’ll be held, closed in by these woods, **I will fill up** the woods and **I will move** the stones as accomplices. The aether **will hear** these things too, if there is any god in it.”
 
 <hr>
 
 ### 6. Tereus’ Direct Speech.
 
-**A)** *“uicimus!” exclamat “mecum mea uota feruntur.”* (Ov. *Met.* 6.513)  
-“We have won!” he exclaims; “my prayers are carried along with me.”
+**A)** *“uicimus!”* ***exclamat*** *“mecum mea uota feruntur.”* (Ov. *Met.* 6.513)  
+“We have won!” he **exclaims**; “my prayers are carried along with me.”
 
-**B)** *tantaque nox animi est, “Ityn huc accersite!” dixit.* (Ov. *Met.* 6.652)  
-So great is the darkness in his mind; he said, “Summon Itys here!”
+**B)** *tantaque nox animi est, “Ityn huc accersite!”* ***dixit.*** (Ov. *Met.* 6.652)  
+So great is the darkness in his mind; **he said**, “Summon Itys here!”
 
 <hr>
 
@@ -130,20 +133,20 @@ This list notes verbs or nouns that indicate that the act of speaking or communi
 
 ### 9. Philomela weaves her tapestry: Ov. *Met.* 6.576-578
 
-*stamina barbarica suspendit callida tela  
-purpureas notas filis intexuit albis,  
+*stamina barbarica suspendit callida tela*  
+***purpureas notas*** *filis intexuit albis,  
 indicium sceleris.*
 
-She hung the ingenious warp from the barbaric loom and wove into the white threads red markings, an indictment of the crime.
+She hung the ingenious warp from the barbaric loom and wove into the white threads **red markings**, an indictment of the crime.
 
 <hr>
 
 ### 10. Procne reads the tapestry: Ov. *Met.* 6.581-582.
 
-*euoluit uestes saeui matrona tyranni  
-germanaeque suae carmen miserabile legit.*
+***euoluit*** *uestes saeui matrona tyranni  
+germanaeque suae* ***carmen miserabile legit***.
 
-The wife of the savage tyrant unrolled the tapestry and read the miserable poem of her sister.
+The wife of the savage tyrant **unrolled** the tapestry and **read the miserable poem** of her sister.
 
 <hr>
 
