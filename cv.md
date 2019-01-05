@@ -37,15 +37,16 @@ Greek tragedy; Ovid and Augustan poetry; ancient gender politics and sexuality; 
 
 # Manuscripts in Progress
 <ul class="cv-elements">
-<li>Article, “The Meter of the Pervigilium Veneris.”</li>
-<li>Article, “Pietas as Scelus in the Philomela Myth of Ovid’s Metamorphoses (6.424-674).”</li>
-<li>Article, “Speech, Silence, and Gender in the Hermaphroditus Myth of Ovid’s Metamorphoses (4.274-388).”</li>
+<li>Article, “The Meter of the <em>Pervigilium Veneris</em>.”</li>
+<li>Article, “<em>Pietas</em> as <em>Scelus</em> in the Philomela Myth of Ovid’s <em>Metamorphoses</em> (6.424-674).”</li>
+<li>Article, “Speech, Silence, and Gender in the Hermaphroditus Myth of Ovid’s <em>Metamorphoses</em> (4.274-388).”</li>
 </ul>
 <hr>
 
 # Talks
 <ul class="cv-elements">
   <li><strong>(2019)</strong> “Visualizing Speech and Speaking about Vision: Focalization in Ovid’s <em>Metamorphoses</em> 1 and 6,” on the International Ovidian Society panel <em>Ovidius a nostris temporibus ad futurum</em>, CAMWS Annual Meeting, Lincoln, NE.</li>
+  <li><strong>(2019)</strong> “The Politics of Assent in Ovid’s <em>Fasti</em>,” on the International Ovidian Society panel at the CANE Annual Meeting, Worcester, MA.</li>
   <li><strong>(2019)</strong> “Ovid in the #MeToo Era,” on the International Ovidian Society panel <em>Ovid Studies: the Next Millennium</em>, SCS/AIA Annual Meeting, San Diego, CA.</li>
   <li><strong>(2018)</strong> “Speech, Silence, and Gender in the Hermaphroditus Myth of Ovid’s <em>Metamorphoses</em> (4.274-388),” CAMWS Annual Meeting, Albuquerque, NM.</li>
   <li><strong>(2018)</strong> “The Metrical Form of the <em>Pervigilium Veneris</em>,” CANE Annual Meeting, Kingston, RI.</li>
