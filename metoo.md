@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Ovid in the #MeToo Era"
+title: "Ovid in the #MeToo Era: Classics in the 21st Century"
 ---
 
 Daniel Libatique, College of the Holy Cross  
