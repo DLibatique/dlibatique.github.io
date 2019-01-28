@@ -181,9 +181,9 @@ The wife of the savage tyrant **unrolled** the tapestry and **read the miserable
 
 ### 16. Procne reacts to the tapestry: Ov. *Met.* 6.583-586.
 
-*et (mirum potuisse)* ***silet***. *dolor* ***ora repressit***,
-***uerbaque*** *quaerenti satis indignantia linguae*
-***defuerunt***; *nec flere uacat, sed fasque nefasque
+*et (mirum potuisse)* ***silet***. *dolor* ***ora repressit***,  
+***uerbaque*** *quaerenti satis indignantia linguae*  
+***defuerunt***; *nec flere uacat, sed fasque nefasque  
 confusura ruit poenaeque in imagine tota est.*
 
 and (a wonder that she was able) **she is silent**. Grief **checked her tongue**, and **words** sufficiently scornful **failed** her tongue as it searched; nor could she cry, but she rushes to commingle what is right and what is forbidden, and she is entirely engulfed in the image of punishment.
@@ -192,8 +192,8 @@ and (a wonder that she was able) **she is silent**. Grief **checked her tongue**
 
 ### 17. The glossectomy of Philomela: Ov. *Met.* 6.555-557.
 
-*ille indignantem et nomen patris usque vocantem
-luctantemque loqui conprensam forcipe* ***linguam***
+*ille indignantem et nomen patris usque vocantem  
+luctantemque loqui conprensam forcipe* ***linguam***  
 *abstulit ense fero.*
 
 The protesting and calling out the name of her father and struggling to speak, gripped by the forceps, **tongue** — that man cut it out with the feral sword.
@@ -202,14 +202,14 @@ The protesting and calling out the name of her father and struggling to speak, g
 
 ### 18. Procne’s soliloquy: Ov. *Met.* 6.611-619.
 
-*'non est lacrimis hoc' inquit ‘agendum,
-sed ferro, sed si quid habes, quod vincere ferrum
-possit. in omne nefas ego me, germana, paravi:
-aut ego, cum facibus regalia tecta cremabo,
-artificem mediis inmittam Terea flammis,* (615)
-*aut linguam atque oculos et quae tibi membra pudorem
-abstulerunt ferro rapiam, aut per vulnera mille
-sontem animam expellam! magnum quodcumque paravi;
+*'non est lacrimis hoc' inquit ‘agendum,  
+sed ferro, sed si quid habes, quod vincere ferrum  
+possit. in omne nefas ego me, germana, paravi:  
+aut ego, cum facibus regalia tecta cremabo,  
+artificem mediis inmittam Terea flammis,* (615)  
+*aut linguam atque oculos et quae tibi membra pudorem  
+abstulerunt ferro rapiam, aut per vulnera mille  
+sontem animam expellam! magnum quodcumque paravi;  
 quid sit, adhuc dubito.'*
 
 She says, “This is no time for tears, but for a sword, or whatever you have that can outdo a sword. Sister, I have prepared myself for every kind of unspeakable deed. Either I will set fire to the regal home with torches and send Tereus, the artificer, into the middle of the flames, or I will rip out his tongue and eyes and what parts of his body stole your chastity, or through a thousand wounds I will drive out his guilty soul! I have prepared for something great; what it is, I’m still in doubt.”
@@ -236,7 +236,7 @@ She says, “This is no time for tears, but for a sword, or whatever you have th
 <hr>
 
 ### 20. Ovid’s reasons for exile: Ov. *Tristia* 2.207.
-*duo crimina, carmen et error...*
+*duo crimina, carmen et error...*  
 Two crimes, a poem and a mistake…
 
 <hr>
