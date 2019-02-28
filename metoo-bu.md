@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Ovid in the #MeToo Era"
+title: "Ovid in the #MeToo Era: Classics in the 21st Century"
 ---
 
 Daniel Libatique, College of the Holy Cross  
 [@DLibatique10](https://twitter.com/dlibatique10)  
-<a href='https://twitter.com/home?status=Currently+listening+to+Daniel+Libatique+%28%40DLibatique10%29+deliver+his+paper+%22Ovid+in+the+%23MeToo+Era%22+at+Wellesley.'>Click here</a> to Tweet about this paper.
+<a href='https://twitter.com/home?status=Currently+listening+to+Daniel+Libatique+%28%40DLibatique10%29+deliver+his+paper+%22Ovid+in+the+%23MeToo+Era%3A+Classics+in+the+21st+Century%22+at+%40BUClassics.'>Click here</a> to Tweet about this paper.
 
-February 28, 2019 \| Wellesley College  
+January 28, 2019 \| Boston University  
 
 <hr>
 
