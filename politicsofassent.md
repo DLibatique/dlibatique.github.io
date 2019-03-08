@@ -44,9 +44,9 @@ Jupiter **agreed**: each pole trembled at his nod, and Atlas knew the weight of 
 &nbsp;&nbsp;&nbsp;&nbsp;quaeque colunt thalamos, Ilia diva, tuos.*  
 [Jupiter] spoke; all the nymphs of the Tiber **agreed** and those who cultivate your bedchambers, divine Ilia.
 
-**D)** 2.699-700, Sextus Tarquinius “assents” to fight with the men of Gabii before stabbing them in the back:
+**D)** 2.699-700, Sextus Tarquinius “assents” to fight with the men of Gabii before stabbing them in the back:  
 *flent quoque, et ut secum tueatur bella precantur.  
-&nbsp;&nbsp;&nbsp;&nbsp;callidus ignaris* ***adnuit*** *ille viris.*
+&nbsp;&nbsp;&nbsp;&nbsp;callidus ignaris* ***adnuit*** *ille viris.*  
 [The Gabians] also weep, and they beg him to keep up the war with them. The crafty Sextus **agrees** to the ignorant men.
 
 **E)** 3.337-8, Jupiter conditionally assents to spare Numa and the Romans from his thunderbolts:  
@@ -57,7 +57,7 @@ He **agreed** to the one praying, but he hid the truth with deep circumlocution 
 **F)** 4.219-21, Erato confirms to the poet that Cybele wears a turreted crown because she granted towers to the first cities:  
 *'at cur turrifera caput est onerata corona?  
 &nbsp;&nbsp;&nbsp;&nbsp;an primis turres urbibus illa dedit?’*  
-***adnuit***…
+***adnuit***…  
 ‘But why does she wear a crown that bears towers on her head? Because she gave towers to the first cities?’ [Erato] **agreed**.
 
 **G)** 4.887-8, 891, the Rutulians agree to give Mezentius wine in return for his help in the war against Aeneas:  
@@ -91,7 +91,7 @@ Because the harvest when grain is ripe is white, but every color and appearance 
 
 **L)** 6.543, 549, Ino agrees to become the divine Leucothea at the prophecy of the priestess of Carmentis:  
 *‘numen eris pelagi: natum quoque pontus habebit. …’*  
-***adnuerat,*** *promissa fides.*
+***adnuerat,*** *promissa fides.*  
 ‘You will be a divinity of the sea, and the ocean also will possess your son.’ … [Ino] **agreed**, her faith was pledged.
 
 **M)** 6.812, Hercules agrees to Clio’s interpretation of the origins of the Temple of Hercules Musarum:  
@@ -138,7 +138,7 @@ By chance, there was a nymph named Lara, but her old name used to be **the first
 
 <hr>
 
-### 6. Jupiter punishes Lara; Mercury rapes her: F. 2.607-616.
+### 6. Jupiter punishes Lara; Mercury rapes her: *F.* 2.607-616.
 
 *Iuppiter intumuit,* ***quaque est non usa modeste  
 &nbsp;&nbsp;&nbsp;&nbsp;eripit huic linguam,*** *Mercuriumque vocat:  
@@ -157,12 +157,20 @@ Jupiter was enraged, and **he ripped out her tongue, which she did not use in a 
 
 ## <a name="bibliography">Selected Bibliography</a>
 
-* Beard, Mary. 2003. “A Complex of Times: No More Sheep on Romulus’ Birthday.” In *Roman Religion*, edited by Clifford Ando, 273-288. Edinburgh.
-* Feeney, D.C. 1992. “*Si licet et fas est*: Ovid’s *Fasti* and the Problem of Free Speech Under the Principate.” In *Roman Poetry & Propaganda in the Age of Augustus*, edited by Anton Powell, 1-25. Newburyport.
-* Green, Steven J. 2004. *Ovid,* Fasti *I: A Commentary*. Leiden.
-* Keegan, Peter Mark. 2002. “Seen, not Heard: *Feminea Lingua* in Ovid’s *Fasti* and the Critical Gaze.” In *Ovid’s* Fasti: *Historical Readings at its Bimillenium*, edited by Geraldine Herbert-Brown, 129-153. Oxford.
-* Littlewood, R. Joy. 2006. *A Commentary on Ovid:* Fasti *Book VI*. Oxford and New York.
-* McDonough, Christopher Michael. 2004. “The Hag and the Household Gods: Silence, Speech, and the Family in Mid-February (Ovid *Fasti* 2.533-638).” *CP* 99.4: 354-369.
-* Newlands, Carole E. 1995. *Playing with Time: Ovid and the* Fasti. Ithaca.
-* ———. 2015. *Ovid*. London and New York.
-* Rudd, Niall. 1976. “History: Ovid and the Augustan Myth.” In *Lines of Enquiry: Studies in Latin Poetry*, 1-31. Cambridge.
+Beard, Mary. 2003. “A Complex of Times: No More Sheep on Romulus’ Birthday.” In *Roman Religion*, edited by Clifford Ando, 273-288. Edinburgh.
+
+Feeney, D.C. 1992. “*Si licet et fas est*: Ovid’s *Fasti* and the Problem of Free Speech Under the Principate.” In *Roman Poetry & Propaganda in the Age of Augustus*, edited by Anton Powell, 1-25. Newburyport.
+
+Green, Steven J. 2004. *Ovid,* Fasti *I: A Commentary*. Leiden.
+
+Keegan, Peter Mark. 2002. “Seen, not Heard: *Feminea Lingua* in Ovid’s *Fasti* and the Critical Gaze.” In *Ovid’s* Fasti: *Historical Readings at its Bimillenium*, edited by Geraldine Herbert-Brown, 129-153. Oxford.
+
+Littlewood, R. Joy. 2006. *A Commentary on Ovid:* Fasti *Book VI*. Oxford and New York.
+
+McDonough, Christopher Michael. 2004. “The Hag and the Household Gods: Silence, Speech, and the Family in Mid-February (Ovid *Fasti* 2.533-638).” *CP* 99.4: 354-369.
+
+Newlands, Carole E. 1995. *Playing with Time: Ovid and the* Fasti. Ithaca.
+
+———. 2015. *Ovid*. London and New York.
+
+Rudd, Niall. 1976. “History: Ovid and the Augustan Myth.” In *Lines of Enquiry: Studies in Latin Poetry*, 1-31. Cambridge.
