@@ -4,7 +4,7 @@ title: CV
 ---
 
 # Research Interests
-Greek tragedy; Ovid and Augustan poetry; ancient gender politics and sexuality; narratology; Digital Humanities (Natural Language Processing, machine learning, text encoding); queer theory; performance and reception; metrics.
+Ovid and Augustan poetry; ancient gender politics and sexuality; narratology; Sophocles and Greek tragedy; Digital Humanities (Natural Language Processing, machine learning, text encoding); queer theory; performance and reception; metrics.
 <hr>
 # Employment
 <div style="padding-bottom:0"><strong>(2019-2020)</strong><a name='hc'> </a>Visiting Assistant Professor, College of the Holy Cross.</div>
