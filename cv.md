@@ -7,6 +7,14 @@ title: CV
 Greek tragedy; Ovid and Augustan poetry; ancient gender politics and sexuality; narratology; Digital Humanities (Natural Language Processing, machine learning, text encoding); queer theory; performance and reception; metrics.
 <hr>
 # Employment
+<div style="padding-bottom:0"><strong>(2019-2020)</strong><a name='hc'> </a>Visiting Assistant Professor, College of the Holy Cross.</div>
+<div class="indent">Courses taught:
+<ul>
+  <li>(Fall 2019) CLAS102 - Women and Men in Roman Literature and Society</li>
+  <li>(Fall 2019) LATN101 - Introduction to Latin 1 (two sections)</li>
+</ul>
+</div>
+
 <div style="padding-bottom:0"><strong>(2018-2019)</strong><a name='hc'> </a>Lecturer, College of the Holy Cross.</div>
 <div class="indent">Courses taught:
 <ul>
@@ -28,7 +36,7 @@ Greek tragedy; Ovid and Augustan poetry; ancient gender politics and sexuality; 
 <hr>
 # Publications
 <ul class="cv-elements">
-  <li><strong>(2019, forthcoming)</strong> “The speaker and addressee of Sophocles’ <em>Tereus</em> fr. 588 Radt and the context of fr. 583,” <em>Classical Quarterly</em>.</li>
+  <li><strong>(2018)</strong> “The speaker and addressee of Sophocles’ <em>Tereus</em> fr. 588 Radt and the context of fr. 583,” <em>Classical Quarterly</em> 68.2: 707-712. <a href="https://doi.org/10.1017/S0009838819000119">DOI</a>.</li>
   <li><strong>(2019)</strong> Review, W.M. Barton, <em>The Pervigilium Veneris: A New Critical Text, Translation, and Commentary. Classical Review</em> 69.1. <a href="https://doi.org/10.1017/S0009840X18002147">DOI</a>.</li>
   <li><strong>(2015)</strong> “A Narratological Investigation of Ovid’s Medea: <em>Met.</em> 7.1-424,” <em>Classical World</em> 109.1: 69-89. <a href="https://doi.org/10.1353/clw.2015.0082">DOI</a>.</li>
   <li>(Invited to resubmit by <em>New England Classical Journal</em>) “Cremutius Cordus and the Loss of Agency: Tacitus <em>Annals</em> 4.34-35.”</li>
@@ -37,6 +45,7 @@ Greek tragedy; Ovid and Augustan poetry; ancient gender politics and sexuality; 
 
 # Manuscripts in Progress
 <ul class="cv-elements">
+<li>Article, "Atomic Epistolarity and Intensifying Violence in Ovid’s Philomela Narrative: Lucretius <em>DRN</em> 2.500-507 and Ovid <em>Met.</em> 6.576-586."</li>
 <li>Article, “The Meter of the <em>Pervigilium Veneris</em>.”</li>
 <li>Article, “<em>Pietas</em> as <em>Scelus</em> in the Philomela Myth of Ovid’s <em>Metamorphoses</em> (6.424-674).”</li>
 <li>Article, “Speech, Silence, and Gender in the Hermaphroditus Myth of Ovid’s <em>Metamorphoses</em> (4.274-388).”</li>
@@ -61,6 +70,13 @@ Greek tragedy; Ovid and Augustan poetry; ancient gender politics and sexuality; 
   <li><strong>(2013)</strong> “From Lead Role to Stage Body: The Disappearance of Tecmessa in Sophocles’ <em>Ajax</em>,” Comparative Literature Graduate Conference, "DISAPPEARANCE: Spatial and Temporal Horizons," City University of New York.</li>
   <li><strong>(2013)</strong> "Rumor, Speech, and the Fall of a Homeric Age in Sophocles’ <em>Ajax</em>,” Graduate Conference at the University of Florida, "<em>Ut Fama Est</em>: Rumor and Reputation in Antiquity,"" University of Florida.</li>
   <li><strong>(2013)</strong> "A Narratological Investigation of Ovid's Medea: <em>Met.</em> 7.1-424," Pacific Rim Roman Literature Seminar, "The Journey in Roman Literature," Columbia University, New York, NY.</li>
+</ul>
+<hr>
+# Invited Talks
+<ul class="cv-elements">
+    <li><strong>(2019)</strong> “Ovid in the #MeToo Era,” College of the Holy Cross.</li>
+    <li><strong>(2019)</strong> “Ovid in the #MeToo Era,” Wellesley College.</li>
+    <li><strong>(2019)</strong> “Ovid in the #MeToo Era: Classics in the 21st Century,” Boston University.</li>
 </ul>
 <hr>
 # Teaching
