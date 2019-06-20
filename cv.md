@@ -98,6 +98,7 @@ See above / [click here](#hc).
 <hr>
 # Grants, Awards, Fellowships, and Memberships
 <ul class="cv-elements">
+  <li><strong>(2018)</strong> Participant, “Digital Editions, Digital Corpora and New Possibilities for the Humanities in the Academy and Beyond,” NEH Institute for Advanced Topics in the Digital Humanities, Tufts University, Medford, MA.</li>
   <li><strong>(2017-2018)</strong> Outstanding Teaching Fellow Award, Classical Studies, Boston University.</li>
   <li><strong>(2017)</strong> BU Center for the Humanities Dissertation Completion Fellowship, Boston University.</li>
   <li><strong>(2016)</strong> Researcher in Residence, New York Public Library.</li>
@@ -112,6 +113,7 @@ See above / [click here](#hc).
 <hr>
 # Service and leadership
 <ul class="cv-elements">
+  <li><strong>(2019)</strong> Panel Organizer, International Ovidian Society, CAMWS, Lincoln, NE.</li>
   <li><strong>(2017-2018)</strong> Volunteer Coordinator, Society for Classical Studies Annual Meeting (Boston).</li>    
   <li><strong>(2017, 2016, 2013)</strong> Session leader at Massachusetts Junior Classical League Classics Day.</li>  
   <li><strong>(2015)</strong> Co-organizer, "Love and Friendship in Greek and Roman Antiquity," Graduate Student Conference, Boston University.</li>
