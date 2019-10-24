@@ -82,22 +82,22 @@ And I beg you to pardon me, fellow citizens, if, compelled to speak about habits
 
 ## Bibliography
 
-Cook, Brad L. 2012. [“Swift-Boating in Antiquity: Rhetorical Framing of the Good Citizen in Fourth-Century Athens.”](https://doi.org/10.1525/RH.2012.30.3.219) *Rhetorica: A Journal of the History of Rhetoric* 30.3: 219–51.
+- Cook, Brad L. 2012. [“Swift-Boating in Antiquity: Rhetorical Framing of the Good Citizen in Fourth-Century Athens.”](https://doi.org/10.1525/RH.2012.30.3.219) *Rhetorica: A Journal of the History of Rhetoric* 30.3: 219–51.
 
-Dover, K. J. 2016. *Greek Homosexuality*. 3rd ed. New York.
+- Dover, K. J. 2016. *Greek Homosexuality*. 3rd ed. New York.
 
-Fisher, Nick, ed. 2001. *Aeschines:* Against Timarchos. Oxford and New York.
+- Fisher, Nick, ed. 2001. *Aeschines:* Against Timarchos. Oxford and New York.
 
-Henderson, Jeffrey. 1991². *The Maculate Muse: Obscene Language in Attic Comedy*. Oxford and New York.
+- Henderson, Jeffrey. 1991². *The Maculate Muse: Obscene Language in Attic Comedy*. Oxford and New York.
 
-Hunter, Virginia. 1990. [“Gossip and the Politics of Reputation in Classical Athens.”](https://doi.org/10.2307/1088805) *Phoenix* 44.4: 299–325.
+- Hunter, Virginia. 1990. [“Gossip and the Politics of Reputation in Classical Athens.”](https://doi.org/10.2307/1088805) *Phoenix* 44.4: 299–325.
 
-Lanni, Adriaan. 2010. [“The Expressive Effect of the Athenian Prostitution Laws.”](https://doi.org/10.1525/CA.2010.29.1.45) *CA* 29.1: 45–67.
+- Lanni, Adriaan. 2010. [“The Expressive Effect of the Athenian Prostitution Laws.”](https://doi.org/10.1525/CA.2010.29.1.45) *CA* 29.1: 45–67.
 
-Lape, Susan. 2006. “The Psychology of Prostitution in Aeschines’ Speech Against Timarchus.” In *Prostitutes and Courtesans in the Ancient World*, edited by Christopher A. Faraone and Laura K. McClure, 139–60. Madison: University of Wisconsin Press.
+- Lape, Susan. 2006. “The Psychology of Prostitution in Aeschines’ Speech Against Timarchus.” In *Prostitutes and Courtesans in the Ancient World*, edited by Christopher A. Faraone and Laura K. McClure, 139–60. Madison: University of Wisconsin Press.
 
-Ormand, Kirk. 2018. *Controlling Desires: Sexuality in Ancient Greece and Rome*. Revised Edition. Austin: University of Texas Press.
+- Ormand, Kirk. 2018. *Controlling Desires: Sexuality in Ancient Greece and Rome*. Revised Edition. Austin: University of Texas Press.
 
-Ruprecht, Daniel. 2018. [“Truthful Hyperbole, Honest Bullshit.”](https://eidolon.pub/truthful-hyperbole-honest-bullshit-c1b2f0b78c46) *Eidolon*.
+- Ruprecht, Daniel. 2018. [“Truthful Hyperbole, Honest Bullshit.”](https://eidolon.pub/truthful-hyperbole-honest-bullshit-c1b2f0b78c46) *Eidolon*.
 
-Spatharas, Dimos. 2016. “Sex, Politics, and Disgust in Aechines’ *Against Timarchus*.” In *The Ancient Emotion of Disgust*, edited by Donald Lateiner and Dimos Spatharas, 125-140. Oxford and New York.
+- Spatharas, Dimos. 2016. “Sex, Politics, and Disgust in Aechines’ *Against Timarchus*.” In *The Ancient Emotion of Disgust*, edited by Donald Lateiner and Dimos Spatharas, 125-140. Oxford and New York.
