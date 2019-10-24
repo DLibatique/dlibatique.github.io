@@ -19,6 +19,8 @@ October 24, 2019 \| Boston University
 
   *The translations of items 1, 2, 3, 6, and 8 are mine; all other translations are from Adams’ Loeb unless otherwise noted.*
 
+<hr>
+
 1\. οὐδὲ γὰρ ὁ νόμος **τοὺς ἰδιωτεύοντας**, ἀλλὰ **τοὺς πολιτευομένους** ἐξετάζει. (195)
 
 For the law does not scrutinize **private citizens** but rather **those engaged in politics**.
