@@ -17,7 +17,7 @@ October 24, 2019 \| Boston University
 
 ## Passages
 
-\* The translations of items 1, 2, 3, 6, and 8 are mine; all other translations are from Adams’ Loeb unless otherwise noted.
+  *The translations of items 1, 2, 3, 6, and 8 are mine; all other translations are from Adams’ Loeb unless otherwise noted.*
 
 1\. οὐδὲ γὰρ ὁ νόμος **τοὺς ἰδιωτεύοντας**, ἀλλὰ **τοὺς πολιτευομένους** ἐξετάζει. (195)
 
