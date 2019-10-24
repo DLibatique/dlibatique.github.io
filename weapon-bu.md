@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Ovid in the #MeToo Era: Classics in the 21st Century"
+title: "The Weaponization of Ancient Sexuality in Aeschines' Against Timarchus"
 ---
 
 Daniel Libatique, College of the Holy Cross  
