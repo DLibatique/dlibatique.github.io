@@ -4,10 +4,11 @@ title: Contact
 permalink: /contact
 ---
 
-## Social Media
+## Links
 - Twitter: [@DLibatique10](https://twitter.com/dlibatique10)
+- Github: [dlibatique](https://github.com/dlibatique)
 
-## Please input your name, e-mail, and a brief message.
+## Or send a message!
 
 <form action="https://getsimpleform.com/messages?form_api_token=d3b7abd0ea1e22bed6828f915b7367cb" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
