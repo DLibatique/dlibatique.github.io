@@ -9,6 +9,7 @@ permalink: /talks
 ## Ovid in the #MeToo Era
 - [SCS: January 6, 2019]({{ site.url }}/metoo-scs)
 - [Boston University: January 28, 2019]({{ site.url }}/metoo-bu)
+- [Wellesley College: February 28, 2019]({{ site.url }}/metoo-wellesley)
 - [Holy Cross: March 28, 2019]({{ site.url }}/metoo-hc)
 
 ***
