@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: subpage
 title: "Ovid in the #MeToo Era"
+permalink: /metoo-hc
 ---
 
 Daniel Libatique, College of the Holy Cross  

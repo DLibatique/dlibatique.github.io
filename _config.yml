@@ -1,6 +1,6 @@
 markdown:            kramdown
 highlighter:         rouge
-include:             ['_pages']
+include:             ['_pages', '_subpages']
 
 # Permalinks
 permalink:           pretty
