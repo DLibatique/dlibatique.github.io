@@ -1,12 +1,15 @@
+markdown:            kramdown
+highlighter:         rouge
+include:             ['_pages']
+
 # Permalinks
 permalink:           pretty
 
 # Setup
 title:               Daniel Libatique
-tagline:             Lecturer at Holy Cross. PhD from Boston University.
-url:                 https://dlibatique.github.io
-paginate:            1
-baseurl:             "https://dlibatique.github.io"
+tagline:             'Classics Teacher and Researcher'
+url:                 https://libatique.info
+baseurl:             /
 
 # Assets
 #
@@ -18,23 +21,10 @@ sass:
 # About/contact
 author:
   name:              Daniel Libatique
-  url:               https://dlibatique.github.io
+  url:               https://libatique.info
   email:             daniel.libatique@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             2.1.0
 github:
-  repo:              https://github.com/poole/poole
-
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
-
-# custom pages list
-pages_list:
-    CV: 'https://dlibatique.github.io/cv'
-    Blog: 'https://dlibatique.github.io/blog'
-    Digital Projects: 'https://dlibatique.github.io/digital'
-    Courses: 'https://dlibatique.github.io/courses'
-    Contact: 'https://dlibatique.github.io/contact'
+  repo:              https://github.com/dlibatique/dlibatique.github.io

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
 
 <p align="center">Hi! I'm Daniel Libatique.<br>And welcome to my website!</p>
