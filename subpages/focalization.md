@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: subpage
 title: "Visualizing Speech and Speaking about Vision: Focalization in Ovid’s Metamorphoses 1 and 6"
+permalink: /focalization
 ---
 
 Daniel Libatique, College of the Holy Cross  

@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: subpage
 title: "The Weaponization of Ancient Sexuality in Aeschines' Against Timarchus"
+permalink: /weapon-bu
 ---
 
 Daniel Libatique, College of the Holy Cross  

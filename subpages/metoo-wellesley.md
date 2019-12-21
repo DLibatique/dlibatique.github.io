@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: subpage
 title: "Ovid in the #MeToo Era"
+permalink: /metoo-wellesley
 ---
 
 Daniel Libatique, College of the Holy Cross  
 [@DLibatique10](https://twitter.com/dlibatique10)  
-<a href='https://twitter.com/home?status=Currently+listening+to+Daniel+Libatique+%28%40DLibatique10%29+deliver+his+paper+%22Ovid+in+the+%23MeToo+Era%22+at+%40CHC%5FClassics.'>Click here</a> to Tweet about this paper.
+<a href='https://twitter.com/home?status=Currently+listening+to+Daniel+Libatique+%28%40DLibatique10%29+deliver+his+paper+%22Ovid+in+the+%23MeToo+Era%3A+Classics+in+the+21st+Century%22.'>Click here</a> to Tweet about this paper.
 
-March 28, 2019 \| College of the Holy Cross
+February 28, 2019 \| Wellesley College  
 
 <hr>
 
@@ -19,7 +20,7 @@ March 28, 2019 \| College of the Holy Cross
 
 ### 1. [The Sportula](https://twitter.com/libertinopatren)'s Call for Papers: *Naked Soul*
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Please RT and let all your students know: we have EXTENDED our deadline for submissions to our inaugural conference, Naked Soul until the Birthday of Rome (Apr 21). We run on <a href="https://twitter.com/hashtag/cripclassics?src=hash&amp;ref_src=twsrc%5Etfw">#cripclassics</a> time, so if you do too it&#39;s not too late to submit!! <a href="https://t.co/X3SXIXDA9q">https://t.co/X3SXIXDA9q</a></p>&mdash; The Sportula (@Libertinopatren) <a href="https://twitter.com/Libertinopatren/status/1106340843667877888?ref_src=twsrc%5Etfw">March 14, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Please share widely!!! <a href="https://t.co/iehl0D3mSy">pic.twitter.com/iehl0D3mSy</a></p>&mdash; The Sportula (@Libertinopatren) <a href="https://twitter.com/Libertinopatren/status/1083066493774880768?ref_src=twsrc%5Etfw">January 9, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Also, click [here](https://tiny.cc/nakedsoul) for an accessible version of the CFP on the Classics and Social Justice website.

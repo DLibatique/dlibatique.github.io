@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: subpage
 title: "adnue conanti per laudes ire tuorum: The Politics of Assent in Ovid's Fasti"
+permalink: /politicsofassent
 ---
 
 Daniel Libatique, College of the Holy Cross  
