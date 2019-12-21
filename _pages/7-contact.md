@@ -4,6 +4,9 @@ title: Contact
 permalink: /contact
 ---
 
+## Social Media
+- Twitter: [@DLibatique10](https://twitter.com/dlibatique10)
+
 ## Please input your name, e-mail, and a brief message.
 
 <form action="https://getsimpleform.com/messages?form_api_token=d3b7abd0ea1e22bed6828f915b7367cb" method="post">
