@@ -5,8 +5,8 @@ permalink: /courses
 ---
 
 ## Spring 2020
-* [LATN 102 - Introduction to Latin 2](#)
-* [CLAS 199 - Intro to Greco-Roman Gender and Sexuality](http://libatique.info/CLAS199-S20)
+* [LATN 102 - Introduction to Latin 2](https://libatique.info/LATN102-S20)
+* [CLAS 199 - Intro to Greco-Roman Gender and Sexuality](https://libatique.info/CLAS199-S20)
 
 ## Fall 2019
 * [LATN 101 - Introduction to Latin 1](https://dlibatique.github.io/LATN101-F19/)
