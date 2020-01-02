@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: SCS Annual Meeting 2020 - Schedule
+title: "SCS Annual Meeting 2020 - Schedule"
 permalink: /scs20
 ---
 
