@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-<p align="center" style="background-color:#ac4142; color:#FFFFFF;"><span style="font-family:Courier;">TL;DR: My name is Daniel Libatique, I'm a Classics professor and researcher, and my primary interests lie in Ovid, gender politics, narratology, and digital humanities.</span></p>
+<p align="center" style="background-color:#75b5aa; color:#FFFFFF;"><span style="font-family:Courier;">TL;DR: My name is Daniel Libatique, I'm a Classics professor and researcher, and my primary interests lie in Ovid, gender politics, narratology, and digital humanities.</span></p>
 
 <img align="left" src="../images/headshot.jpg" style="float" width="50%">
 
