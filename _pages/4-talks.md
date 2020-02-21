@@ -11,7 +11,7 @@ permalink: /talks
 - [Boston University: January 28, 2019]({{ site.url }}/metoo-bu)
 - [Wellesley College: February 28, 2019]({{ site.url }}/metoo-wellesley)
 - [Holy Cross: March 28, 2019]({{ site.url }}/metoo-hc)
-- [University of Minnesota: February 21, 2020]({{ site.url }}/metoo-mn)
+- [University of Minnesota: February 21, 2020]({{ site.url }}/mnmetoo)
 
 ***
 
