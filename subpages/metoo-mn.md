@@ -6,7 +6,7 @@ permalink: /mnmetoo
 
 Daniel Libatique, College of the Holy Cross  
 [@DLibatique10](https://twitter.com/dlibatique10)  
-<a href='https://twitter.com/home?status=Currently+listening+to+Daniel+Libatique+%28%40DLibatique10%29+deliver+his+paper+%22Ovid+in+the+%23MeToo+Era%22.'>Click here</a> to Tweet about this paper.
+<a href='https://ctt.ac/gaVci'>Click here</a> to Tweet about this paper.
 
 February 21, 2020 \| University of Minnesota  
 Consortium for the Study of the Premodern World
