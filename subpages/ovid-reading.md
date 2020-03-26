@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: "Ovid in the Time of Coronavirus"
+title: "Ovid in the Time of COVID(-19)"
 permalink: /ovid
 ---
 
