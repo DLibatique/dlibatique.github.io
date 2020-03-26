@@ -11,9 +11,9 @@ All videos can be found in [this playlist](https://www.youtube.com/playlist?list
 The link for each stream will be posted next to the date in question as it gets closer, and completed streams will be linked after the fact.
 
 [**W 3/25, 7pm**: 1.1-415](https://www.youtube.com/watch?v=GswaKSM-C-I&list=PLx32tz1XNYO1YGse8DAzj4Z-f9jPVgLy8)  
-**Th 3/26, 3pm**: 1.416-779 - [https://youtu.be/2Tveq0qTi_8](https://youtu.be/2Tveq0qTi_8)  
+[**Th 3/26, 3pm**: 1.416-779](https://www.youtube.com/watch?v=2Tveq0qTi_8&list=PLx32tz1XNYO1YGse8DAzj4Z-f9jPVgLy8)  
 
-**F 3/27, 2pm**: 2.1-440  
+**F 3/27, 2pm**: 2.1-440 - [https://youtu.be/T1Asf_W_WTU](https://youtu.be/T1Asf_W_WTU)  
 **M 3/30, 2pm**: 2.441-875  
 
 **Tu 3/31**: 3.1-401  
