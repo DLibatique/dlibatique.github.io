@@ -28,8 +28,8 @@ The link for each stream will be posted next to the date in question as it gets 
 [**W 4/8, 5pm**: 6.1-381](https://www.youtube.com/watch?v=t1FpQ9ExjrU&list=PLx32tz1XNYO1YGse8DAzj4Z-f9jPVgLy8&index=12&t=0s)  
 [**Th 4/9, 9:30am**: 6.382-721](https://www.youtube.com/watch?v=QoIuWf5UGwk&list=PLx32tz1XNYO1YGse8DAzj4Z-f9jPVgLy8&index=12)  
 
-**F 4/10, 9am**: 7.1-424 - [https://youtu.be/c-_Rp6HVrbc](https://youtu.be/c-_Rp6HVrbc)  
-**M 4/13**: 7.425-865  
+[**F 4/10, 9am**: 7.1-424](https://www.youtube.com/watch?v=c-_Rp6HVrbc&list=PLx32tz1XNYO1YGse8DAzj4Z-f9jPVgLy8&index=14&t=0s)  
+**M 4/13**: 7.425-865 - [https://youtu.be/e89Ov-8GDqM](https://youtu.be/e89Ov-8GDqM)  
 
 **Tu 4/14**: 8.1-444  
 **W 4/15**: 8.445-884  
