@@ -50,7 +50,7 @@ Musser)
 
 ## Publications
 - **(2020, forthcoming)** “Ovid in the #MeToo Era,” *Helios*.
-- **(2020, forthcoming)** “Verbal Agency in the Speech of Cremutius Cordus (Tacitus *Annals* 4.34-35),” *New England Classical Journal*.
+- **(2020)** “[Verbal Agency in the Speech of Cremutius Cordus (Tacitus *Annals* 4.34-35](https://crossworks.holycross.edu/necj/vol47/iss1/3/)),” *New England Classical Journal* 47.1: 1-16.
 - **(2019)** Review, [Rolfe Humphries, tr., and Joseph D. Reed, annotator, Ovid: *Metamorphoses*](https://cj.camws.org/sites/default/files/reviews/2019.08.09%20Libatique%20on%20Humphries%20and%20Reed.pdf). *Classical Journal*.
 - **(2018)** “[The speaker and addressee of Sophocles’ *Tereus* fr. 588 Radt and the context of fr. 583](https://doi.org/10.1017/S0009838819000119),” *Classical Quarterly* 68.2: 707-712.
 - **(2018)** Review, [W.M. Barton, The Pervigilium Veneris: *A New Critical Text, Translation, and Commentary*](https://doi.org/10.1017/S0009840X18002147). *Classical Review* 69.1.
