@@ -8,14 +8,4 @@ permalink: /contact
 - Twitter: [@DLibatique10](https://twitter.com/dlibatique10)
 - Github: [dlibatique](https://github.com/dlibatique)
 
-## Or send a message!
-
-<form action="https://getsimpleform.com/messages?form_api_token=d3b7abd0ea1e22bed6828f915b7367cb" method="post">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='{{ site.url }}/thankyou' />
-  <!-- all your input fields here.... -->
-  Name: <input type='text' name='name'><br>
-  E-mail: <input type='email' name='email'><br>
-  Message:<br><textarea name='message' rows="8" cols="80"></textarea><br>
-  <input type='submit' value='Submit' />
-</form>
+You can find my e-mail address on the [Faculty & Staff page](https://www.holycross.edu/academics/programs/classics/faculty-staff) of the Holy Cross Classics website. 
