@@ -22,7 +22,6 @@ sass:
 author:
   name:              Daniel Libatique
   url:               https://libatique.info
-  email:             daniel.libatique@gmail.com
 
 # Custom vars
 version:             2.1.0
