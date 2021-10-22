@@ -51,7 +51,7 @@ Musser)
 ## Publications
 
 ### Peer-Reviewed
-- **(2021, forthcoming)** “Ovid in the #MeToo Era,” *Helios*.
+- **(2021)** “[Ovid in the #MeToo Era](https://muse.jhu.edu/article/802494),” *Helios* 48.1: 57-75.
 - **(2021)** with Dominic Machado. "[*Lector Intende, Laetaberis*: A Research-Based Approach to Introductory Latin.](https://doi.org/10.52284/NECJ/48.1/article/libatiquemachado )" *New England Classical Journal* 48.1: 36-53.
 - **(2020)** with Dominic Machado and D. Neel Smith. “[Caveat Magister: A Computational Approach to Designing a Latin Curriculum.](https://dh2020.adho.org/wp-content/uploads/2020/07/680_CaveatmagisteracomputationalapproachtodesigningaLatincurriculum.html)” *DH2020*.
 - **(2020)** “[Verbal Agency in the Speech of Cremutius Cordus (Tacitus *Annals* 4.34-35](https://crossworks.holycross.edu/necj/vol47/iss1/3/)),” *New England Classical Journal* 47.1: 1-16.
@@ -65,9 +65,13 @@ Musser)
 - **(2018)** Review, [W.M. Barton, The Pervigilium Veneris: *A New Critical Text, Translation, and Commentary*](https://doi.org/10.1017/S0009840X18002147). *Classical Review* 69.1.
 
 ### Public Outreach:
+- **(2021)** Consultant and contributor, Homer Bound podcast.
+- **(2021)** “[BIPOC Features: Daniel Libatique](http://notesfromtheapotheke.com/bipoc-features-daniel-libatique/).” *Notes from the Apotheke*.
+- (2021) “[Contingent Faculty Series: A Conversation with Daniel Libatique](https://classicalstudies.org/node/35356).” *Society for Classical Studies Blog*.
 - **(2020)** "[Object-ifying Language](https://eidolon.pub/object-ifying-language-fd8d3d75cb6f)." *Eidolon*.
 
 ### Manuscripts in Progress
+- Edited volume, co-editor with Fiona McHardy, *Diversity and the Study of Antiquity in Higher Education*, Routledge.
 - Monograph, *Philomela's Tongue: Speech, Silence, and the Voice of Gender."
 - Article, “Atomic Intertext: Lucretius *DRN* 2.500-507 and Ovid *Met.* 6.576-586.”
 - Article, “The Meter of the *Pervigilium Veneris*.”
@@ -106,6 +110,7 @@ Musser)
 ***
 
 ## Invited Talks
+- **(2021)** "[Philomela's Tongue: Speech, Silence, and the Voice of Gender]({{ site.url }}/umass2021)", UMass Amherst.
 - **(2020)** "[Ovid in the #MeToo Era]({{ site.url }}/mnmetoo)", University of Minnesota.
 - **(2019)** “[The Weaponization of Ancient Sexuality in Aeschines’ *Against Timarchus*]({{ site.url }}/weapon-brandeis),” Brandeis
 University.
@@ -169,8 +174,11 @@ University.
 
 ## Service
 
+- **(2021-2022)** Honors Thesis Reader, Augusta Holyfield.
+- **(2021-2022)** Honors Thesis Reader, Kendall Swanson.
 - **(2021-present)** Article referee for *Classical Quarterly*.
 - **(2020-present)** Article referee for *Classical Receptions Journal*.
+- **(2020-present)** Advisory Board member, [The Bridge](https://bridge.haverford.edu)
 - **(2019)** Co-organizer, MACTe Fall Meeting, College of the Holy Cross, Worcester, MA.
 - **(2019)** Panel Organizer, International Ovidian Society, CAMWS, Lincoln, NE.
 - **(2017-2018)** Volunteer Coordinator, Society for Classical Studies Annual Meeting (Boston).
