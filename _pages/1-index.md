@@ -8,7 +8,7 @@ permalink: /
 
 <img align="left" src="../images/headshot.jpg" style="float" width="50%">
 
-Hi! My name is Daniel Libatique. As of 2021-2022, I'm a Visiting Assistant Professor in the Classics department at the College of the Holy Cross in Worcester, MA. I earned my Ph.D. at Boston University in 2018 with a dissertation entitled *Tereus, Procne, and Philomela: Speech, Silence, and the Voice of Gender*. Prior to that, I completed my M.A. in Humanities and Social Thought at NYU in 2012 and my B.A. in Classics and Theatre at Holy Cross in 2010. I'm originally from Jersey City, NJ.
+Hi! My name is Daniel Libatique. As of Fall 2022, I am the Vincent J. Rosivach Professor of Classical Studies at Fairfield University in Fairfield, CT. I earned my Ph.D. at Boston University in 2018 with a dissertation entitled *Tereus, Procne, and Philomela: Speech, Silence, and the Voice of Gender*. Prior to that, I completed my M.A. in Humanities and Social Thought at NYU in 2012 and my B.A. in Classics and Theatre at Holy Cross in 2010. I'm originally from Jersey City, NJ.
 
 As a Classicist, my research generally focuses on speech, silence, and the hierarchies of power that those concepts create. My main interests include Ovid and Augustan poetry, gender and sexuality, narratology, Sophocles and Greek drama, performance and reception theory, and Digital Humanities. I am also passionate about ancient language pedagogy and equitable, anti-racist environments in the Classics classroom.
 

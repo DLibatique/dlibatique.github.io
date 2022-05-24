@@ -18,8 +18,11 @@ narratology; Ovid and Augustan poetry; ancient gender politics and sexuality; Di
 
 ## Employment
 
-### (2018 to present) College of the Holy Cross.
-- (2019 to present) Visiting Assistant Professor, Classics
+### (2022 to present) Fairfield University.
+- (2022 to present) Vincent J. Rosivach Professor of Classical Studies.
+
+### (2018-2022) College of the Holy Cross.
+- (2019-2022) Visiting Assistant Professor, Classics
 - (2018-2019) Visiting Lecturer, Classics
 
 [Back to top.](#top)
@@ -51,12 +54,17 @@ Musser)
 ## Publications
 
 ### Peer-Reviewed
+- **(2022, forthcoming)** “‘Let Loose the Melodies of Holy Hymns’: Voice, Agency, and Gender in Aristophanes’ *Birds*.” In *The Spirit of Aristophanes (Festschrift in Honor of Jeffrey Henderson)*. Edinburgh: Edinburgh University Press.
 - **(2021)** “[Ovid in the #MeToo Era](https://muse.jhu.edu/article/802494),” *Helios* 48.1: 57-75.
 - **(2021)** with Dominic Machado. "[*Lector Intende, Laetaberis*: A Research-Based Approach to Introductory Latin.](https://doi.org/10.52284/NECJ/48.1/article/libatiquemachado )" *New England Classical Journal* 48.1: 36-53.
 - **(2020)** with Dominic Machado and D. Neel Smith. “[Caveat Magister: A Computational Approach to Designing a Latin Curriculum.](https://dh2020.adho.org/wp-content/uploads/2020/07/680_CaveatmagisteracomputationalapproachtodesigningaLatincurriculum.html)” *DH2020*.
 - **(2020)** “[Verbal Agency in the Speech of Cremutius Cordus (Tacitus *Annals* 4.34-35](https://crossworks.holycross.edu/necj/vol47/iss1/3/)),” *New England Classical Journal* 47.1: 1-16.
 - **(2018)** “[The speaker and addressee of Sophocles’ *Tereus* fr. 588 Radt and the context of fr. 583](https://doi.org/10.1017/S0009838819000119),” *Classical Quarterly* 68.2: 707-712.
 - **(2015)** "[A Narratological Investigation of Ovid’s Medea: Met. 7.1-424](https://doi.org/10.1353/clw.2015.0082),” *Classical World* 109.1: 69-89.
+
+### Pedagogy
+- **(2022)** [*Intro Greek*](https://introgreek.github.io) (an introductory Greek textbook)
+- **(2020)** with Dominic Machado and Neel Smith, [*Lingua Latina Legenda*](https://lingualatina.github.io/textbook) (an introductory Latin textbook)
 
 ### Reviews
 - **(2021)** Review, [Kris Masters, *LGBT Meets SPQR*](https://classicalstudies.org/node/35304 ). *Society for Classical Studies Blog*.
@@ -67,7 +75,7 @@ Musser)
 ### Public Outreach:
 - **(2021)** Consultant and contributor, Homer Bound podcast.
 - **(2021)** “[BIPOC Features: Daniel Libatique](http://notesfromtheapotheke.com/bipoc-features-daniel-libatique/).” *Notes from the Apotheke*.
-- (2021) “[Contingent Faculty Series: A Conversation with Daniel Libatique](https://classicalstudies.org/node/35356).” *Society for Classical Studies Blog*.
+- **(2021)** “[Contingent Faculty Series: A Conversation with Daniel Libatique](https://classicalstudies.org/node/35356).” *Society for Classical Studies Blog*.
 - **(2020)** "[Object-ifying Language](https://eidolon.pub/object-ifying-language-fd8d3d75cb6f)." *Eidolon*.
 
 ### Manuscripts in Progress
@@ -124,6 +132,10 @@ University.
 ***
 
 ## Teaching Experience
+
+### Fairfield University
+- Basic Latin (Fall 2022)
+- Masterpieces of Roman Literature in English Translation (Fall 2022)
 
 ### College of the Holy Cross
 - Introduction to Latin 1 (Fall 2018, Fall 2019 x2 sections)

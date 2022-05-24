@@ -4,10 +4,15 @@ title: Courses
 permalink: /courses
 ---
 
-## Fall 2021 (links TBD)
-* [GREK 101 - Introduction to Greek 1](#)
-* [LATN 213 - Intermediate Latin 1](#)
-* [GREK 399 - The Greek Novel](#)
+## Spring 2022
+* [GREK 102 - Introduction to Greek 2](https://introgree.github.io)
+* [CLAS 101 - Women and Men in Greek Literature and Society](https://hc.instructure.com/courses/5725)
+* [CLAS 103 - Greek and Roman Epic](https://hc.instructure.com/courses/5648)
+
+## Fall 2021
+* [GREK 101 - Introduction to Greek 1](https://introgreek.github.io)
+* [LATN 213 - Intermediate Latin 1](https://libatique.info/LATN213-F21)
+* [GREK 399 - The Greek Novel](https://libatique.info/GREK399-F21/)
 
 ## Spring 2021
 * [GREK 102 - Introduction to Greek 2](https://libatique.info/GREK102-S21)
