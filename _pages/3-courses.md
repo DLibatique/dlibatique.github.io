@@ -4,8 +4,11 @@ title: Courses
 permalink: /courses
 ---
 
+## Spring 2023
+* [LATN 1111 - Basic Latin](https://introlatin.github.io)
+
 ## Spring 2022
-* [GREK 102 - Introduction to Greek 2](https://introgree.github.io)
+* [GREK 102 - Introduction to Greek 2](https://introgreek.github.io)
 * [CLAS 101 - Women and Men in Greek Literature and Society](https://hc.instructure.com/courses/5725)
 * [CLAS 103 - Greek and Roman Epic](https://hc.instructure.com/courses/5648)
 

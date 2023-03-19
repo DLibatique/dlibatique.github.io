@@ -4,6 +4,13 @@ title: Digital Handouts
 permalink: /talks
 ---
 
+***
+
+## How and Why a Gay Filipino Came to Study the Greeks and Romans
+- [*MetaClassics*, University of Cincinnati: March 20, 2023](https://libatique.info/cincinnati)
+
+***
+
 ## The Commmonplace Book: Student-Centered Explorations of Ancient-Modern Connections
 - [*Res Difficiles* 2.0: March 20, 2021](https://docs.google.com/document/d/1K2LY2kCS6K-f8wXGpterRjucftNZy8tgs4PQZj8fXLQ/edit)
 
