@@ -7,7 +7,8 @@ permalink: /cincinnati
 **Presenter**: Daniel Libatique, Fairfield University  
 **Twitter**: [@DLibatique10](https://twitter.com/dlibatique10)  
 **Website**: [https://libatique.info](https://libatique.info)  
-**Email**: *DLibatique [at] fairfield.edu*
+**Email**: *DLibatique [at] fairfield.edu*  
+**Favorite Pokemon**: Dragonair
 
 March 20, 2023  
 University of Cincinnati  
