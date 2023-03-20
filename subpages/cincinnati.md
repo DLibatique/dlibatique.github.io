@@ -20,7 +20,7 @@ MetaClassics: New Approaches to Ancient Questions
 
 Please find at the following link an access copy of my talk, which you may use to follow along as I deliver it. Please do *not* circulate this copy or quote, cite, or paraphrase its constituent parts without explicit written permission from me (you can find my email above). This link will be removed after Monday, March 20, 2023.
 
-[LINK TBD](#)
+[https://docs.google.com/document/d/e/2PACX-1vSnaadkCPOQ_reh7-hQwoMFxyKjhxrTp_76n6lLXI8T2AgiIpMYG1gnqY1OBfr8xs6dOyZAvt6lqLr6/pub](https://docs.google.com/document/d/e/2PACX-1vSnaadkCPOQ_reh7-hQwoMFxyKjhxrTp_76n6lLXI8T2AgiIpMYG1gnqY1OBfr8xs6dOyZAvt6lqLr6/pub)
 
 ***
 
@@ -46,9 +46,11 @@ Please find at the following link an access copy of my talk, which you may use t
 
 * Inskeep, Steve. 2021. “[Howard University’s Decision to Cut Classics Department Prompts an Outcry](https://www.npr.org/2021/05/10/995389117/howard-universitys-decision-to-cut-classics-department-prompts-an-outcry).” *NPR*, accessed March 18, 2023.
 
+* Kamil, Miriam. 2019. “[‘I Shall — #$% You And *@$# You.’](https://eidolon.pub/i-shall-you-and-you-a3841d4c5e33)” *Eidolon*, accessed March 19, 2023. 
+
 * Kennedy, Rebecca Futo. 2021. “[Open Letter to the SCS on Supporting Departments and Programs](https://rfkclassics.blogspot.com/2021/06/open-letter-to-scs-on-supporting.html).” *Classics at the Intersections* Blog, accessed March 18, 2023. 
 
-* Kennedy, Rebecca Futy and Jackie Murray. 2021. “[Classics is a part of Black intellectual history — Howard needs to keep it](https://andscape.com/features/classics-is-a-part-of-black-intellectual-history-howard-needs-to-keep-it/).” *Andscape*, accessed March 18, 2023. 
+* Kennedy, Rebecca Futo and Jackie Murray. 2021. “[Classics is a part of Black intellectual history — Howard needs to keep it](https://andscape.com/features/classics-is-a-part-of-black-intellectual-history-howard-needs-to-keep-it/).” *Andscape*, accessed March 18, 2023. 
 
 * Lance, Ashley and Kiran Pizarro Mansukhani. 2020. “[Western Imperialism in the Classics Classroom](https://eidolon.pub/western-imperialism-in-the-classics-classroom-75190bd6eb39).” *Eidolon*, accessed March 12, 2023. 
 
@@ -58,7 +60,7 @@ Please find at the following link an access copy of my talk, which you may use t
 
 * Moody, Josh. 2023. “[DeSantis Higher Ed Bill Heads for the Legislature](https://www.insidehighered.com/news/2023/02/27/new-florida-bill-aims-enact-desantiss-higher-ed-reforms).” *Inside Higher Ed*, accessed March 18, 2023. 
 
-* Mun, Rachel U. and Nancy B. Hertzog. 2019. “[The Influence of Parental and Self-Expectations on Asian American Women Who Entered College Early](https://journals.sagepub.com/doi/pdf/10.1177/0016986218823559).” *Gifted Child Quaterly* 63.2: 120-140.
+* Mun, Rachel U. and Nancy B. Hertzog. 2019. “[The Influence of Parental and Self-Expectations on Asian American Women Who Entered College Early](https://journals.sagepub.com/doi/pdf/10.1177/0016986218823559).” *Gifted Child Quarterly* 63.2: 120-140.
 
 * Nethercut, Jason. 2018. “[Her Absence Is Like the Sky](https://eidolon.pub/her-absence-is-like-the-sky-a7f95ae0708c).” *Eidolon*, accessed March 18, 2023.
 
