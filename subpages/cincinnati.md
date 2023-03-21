@@ -18,9 +18,9 @@ MetaClassics: New Approaches to Ancient Questions
 
 ## Access Copy
 
-Please find at the following link an access copy of my talk, which you may use to follow along as I deliver it. Please do *not* circulate this copy or quote, cite, or paraphrase its constituent parts without explicit written permission from me (you can find my email above). This link will be removed after Monday, March 20, 2023.
+Please find at the following link an access copy of my talk, which you may use to follow along as I deliver it. Please do *not* circulate this copy or quote, cite, or paraphrase its constituent parts without explicit written permission from me (you can find my email above). 
 
-[https://docs.google.com/document/d/e/2PACX-1vSnaadkCPOQ_reh7-hQwoMFxyKjhxrTp_76n6lLXI8T2AgiIpMYG1gnqY1OBfr8xs6dOyZAvt6lqLr6/pub](https://docs.google.com/document/d/e/2PACX-1vSnaadkCPOQ_reh7-hQwoMFxyKjhxrTp_76n6lLXI8T2AgiIpMYG1gnqY1OBfr8xs6dOyZAvt6lqLr6/pub)
+*This link was removed after Monday, March 20, 2023.*
 
 ***
 
